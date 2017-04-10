@@ -1,0 +1,17 @@
+карта иногда не подгружается
+
+кнопка "вверх" не работает в футере
+
+подключить шрифты
+httpdemo.click5.rugfontsroboto
+
+google font
+httpsfonts.google.comspecimenRobotoselection.family=Roboto
+
+поискатьь пути в файле title.style.css
+
+
+копаться в вкладке console
+
+Оригинал
+http://demo.click5.ru/dogovor/434984-25/

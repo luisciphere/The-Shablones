@@ -1,3 +1,7 @@
+<?php
+include 'config.php';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -28,7 +32,7 @@
     <div class="row">
       <div class="col-md-12">
         <div class="opening text-center">
-          <h1>Сайт для ООО "Красава"</h1>
+          <h1>Сайт для <?php echo $company_name; ?></h1>
 
           <div class="opening_info row">
   <div class="opening_items col-xs-12 col-sm-offset-1 col-sm-5  col-md-5 " >
@@ -68,7 +72,7 @@
                 <div class="col-md-3 col-sm-6 col-xs-6">
                   <div class="variation">
                     <h4>Вариант дизайна "Красава" 1</h4>
-                    <a href="#" class="batton">Посмотреть Дизайн</a>
+                    <a href="var1/index.php" class="batton">Посмотреть Дизайн</a>
                   </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-6">
