@@ -8,10 +8,10 @@ $email = 'ololo@mail.ru'; //This is email
 
 //Images
 $img1 = '../placeholder1.jpg';
-$img2 = '';
-$img3 = '';
-$img4 = '';
-$img5 = '';
-$img6 = '';
+$img2 = '../placeholder2.jpg';
+$img3 = '../placeholder3.jpg';
+$img4 = '../placeholder4.jpg';
+$img5 = '../placeholder5.jpg';
+$img6 = '../placeholder6.jpg';
 
 ?>
