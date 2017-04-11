@@ -1,0 +1,39 @@
+Род деятельности надо везде тоже в варайблы добавить и похожие фразы там есть еще
+
+log_2
+
+<a href="mailto:herman@dcent.ru">herman@dcent.ru</a>
+<a href="<?php echo $email; ?>"><?php echo $email; ?></a>
+
+<div><a href="tel:+79205853346">+79205853346</a></div>
+<div><a href="<?php echo $phone; ?>"><?php echo $phone; ?></a></div>
+
+Интер карс
+<?php echo $company_name; ?>
+
+img/image.jpg
+<?php echo $img1; ?>
+
+img/image_2.jpg
+<?php echo $img2; ?>
+
+img/image_3.jpg
+<?php echo $img3; ?>
+
+img/10.png
+<?php echo $img10; ?>
+
+img/11.png
+<?php echo $img11; ?>
+
+img/image_6.jpg
+<?php echo $img6; ?>
+
+<div class="title">Интер карс</div>
+<div class="title"><?php echo $company_name; ?></div>
+
+<div class="more"><a href="#" target="_blank">herman@dcent.ru</a></div>
+<div class="more"><a href="#" target="_blank"><?php echo $email; ?></a></div>
+
+<div><a href="tel:+79205853346">+79205853346</a></div>
+<div><a href="<?php echo $phone; ?>"><?php echo $phone; ?></a></div>

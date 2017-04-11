@@ -78,7 +78,7 @@ include 'config.php';
                 <div class="col-md-3 col-sm-6 col-xs-6">
                   <div class="variation">
                     <h4>Вариант дизайна "Красава" 2</h4>
-                    <a href="#" class="batton">Посмотреть Дизайн</a>
+                    <a href="var2/index.php" class="batton">Посмотреть Дизайн</a>
                   </div>
                 </a></div>
                 <div class="col-md-3 col-sm-6 col-xs-6">

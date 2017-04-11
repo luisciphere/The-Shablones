@@ -1,0 +1,33 @@
+Не работает слайдер в шапке
+
+
+
+
+в файле title.styles.css
+
+нет файла ../images/wm_form_adaptive_default.gif
+wm_slider_slider-left.png
+wm_slider_slider-right.png
+wm_block_list_slider-left.png
+../images/wm_block_list_slider-left.png
+../images/wm_block_list_slider-right.png
+../images/wm_block_list_slider-left.png
+../images/wm_block_list_slider-right.png
+../images/wm_block_list_slider-left.png
+../images/wm_block_list_slider-right.png
+../images/wm_reviews_slider-left.png
+../images/wm_reviews_slider-right.png
+../images/wm_side_panel_cross.png
+../images/Tel2.png
+../images/Tel.png
+../images/Map.png?1479982898344
+../images/wm_menu_home.png
+
+Но визуально все норм
+
+
+Не работает слайдер в шапке
+
+
+
+
