@@ -1,0 +1,22 @@
+http://demo.click5.ru/dogovor/434984-11/images/image_0.jpg
+<?php echo $img1; ?>
+
+Интер карс
+<?php echo $company_name; ?>
+
+<div><a href="tel:+79205853346">+79205853346</a></div>
+<div><a href="tel:<?php echo $phone; ?>"><?php echo $phone; ?></a></div>
+
+img/image.jpg
+<?php echo $img1; ?>
+
+img/image_0.jpg
+<?php echo $img2; ?>
+
+img/image_0.jpg
+<?php echo $img2; ?>
+
+img/image_1.jpg
+<?php echo $img1; ?>
+
+

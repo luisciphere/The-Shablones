@@ -8,7 +8,7 @@ include 'config.php';
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Document</title>
+  <title>Коммерческое предложение для <?php echo $company_name; ?></title>
   <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
   <link rel="stylesheet" href="css/style.css">
@@ -35,24 +35,43 @@ include 'config.php';
           <h1>Сайт для <?php echo $company_name; ?></h1>
 
           <div class="opening_info row">
-  <div class="opening_items col-xs-12 col-sm-offset-1 col-sm-5  col-md-5 " >
-                <h5><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Несколько дизайнов на выбор</h5></li>
+
+            <div class="col-xs-12 col-sm-offset-1 col-sm-5  col-md-5">
+              <div class="opening_items">
+                <h5><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Несколько дизайнов на выбор</h5>
               </div>
-  <div class="opening_items col-xs-12 col-sm-5 col-md-5" >
-                <h5><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Система управления сайтом</h5></li>
+            </div>
+
+            <div class="col-xs-12 col-sm-5 col-md-5">
+              <div class="opening_items">
+                <h5><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Система управления сайтом</h5>
               </div>
-  <div class="opening_items col-xs-12 col-sm-offset-1  col-sm-5 col-md-5 " >
-                <h5><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Мощный хостинг и домен бесплатно</h5></li>
+            </div>
+
+            <div class="col-xs-12 col-sm-offset-1  col-sm-5 col-md-5">
+              <div class="opening_items">
+                <h5><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Мощный хостинг и домен бесплатно</h5>
               </div>
-  <div class="opening_items col-xs-12  col-sm-5 col-md-5" >
+            </div>
+
+            <div class="col-xs-12  col-sm-5 col-md-5" >
+              <div class="opening_items">
                 <h5><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Техническая поддержка</h5></li>
               </div>
-  <div class="opening_items col-xs-12 col-sm-offset-1  col-sm-5 col-md-5 " >
+            </div>
+
+            <div class="col-xs-12 col-sm-offset-1  col-sm-5 col-md-5">
+              <div class="opening_items">
                 <h5><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Наполнение сайта материалами</h5></li>
               </div>
-  <div class="opening_items col-xs-12  col-sm-5 col-md-5 " >
+            </div>
+
+            <div class="col-xs-12  col-sm-5 col-md-5">
+              <div class="opening_items">
                 <h5><span class="glyphicon glyphicon-ok"></span>Любое количество страниц и информации</h5></li>
               </div>
+            </div>
+
           </div> <!-- end row -->
 
         </div>
@@ -69,62 +88,65 @@ include 'config.php';
           <h1><span>Стандартный дизайн</span> - 4,999р</h1>
             <div class="variation_items">
               <div class="row">
-                <div class="col-md-3 col-sm-6 col-xs-6">
+                <div class="col-md-4 col-sm-6 col-xs-6">
                   <div class="variation">
-                    <h4>Вариант дизайна "Красава" 1</h4>
+                    <h4>Вариант дизайна <?php echo $company_name ?> 1</h4>
                     <a href="var1/index.php" class="batton">Посмотреть Дизайн</a>
                   </div>
                 </div>
-                <div class="col-md-3 col-sm-6 col-xs-6">
+                <div class="col-md-4 col-sm-6 col-xs-6">
                   <div class="variation">
-                    <h4>Вариант дизайна "Красава" 2</h4>
+                    <h4>Вариант дизайна <?php echo $company_name ?> 2</h4>
                     <a href="var2/index.php" class="batton">Посмотреть Дизайн</a>
                   </div>
                 </a></div>
-                <div class="col-md-3 col-sm-6 col-xs-6">
+                <div class="col-md-4 col-sm-6 col-xs-6">
                   <div class="variation">
-                    <h4>Вариант дизайна "Красава" 3</h4>
-                    <a href="#" class="batton">Посмотреть Дизайн</a>
+                    <h4>Вариант дизайна <?php echo $company_name ?> 3</h4>
+                    <a href="var3/index.php" class="batton">Посмотреть Дизайн</a>
                   </div>
                 </div>
-                <div class="col-md-3 col-sm-6 col-xs-6">
-                  <div class="variation">
-                    <h4>Вариант дизайна "Красава" 4</h4>
-                    <a href="#" class="batton">Посмотреть Дизайн</a>
-                  </div>
-                </div>
-              </div>
 
+              </div>
               <div class="row">
-                <div class="col-md-3 col-sm-6 col-xs-6">
+                <div class="col-md-4 col-sm-6 col-xs-6">
                   <div class="variation">
-                    <h4>Вариант дизайна "Красава" 5</h4>
+                    <h4>Вариант дизайна <?php echo $company_name ?> 4</h4>
+                    <a href="var4/index.php" class="batton">Посмотреть Дизайн</a>
+                  </div>
+                </div>
+
+
+
+                <div class="col-md-4 col-sm-6 col-xs-6">
+                  <div class="variation">
+                    <h4>Вариант дизайна <?php echo $company_name ?> 5</h4>
+                    <a href="var5/index.php" class="batton">Посмотреть Дизайн</a>
+                  </div>
+                </div>
+                <div class="col-md-4 col-sm-6 col-xs-6">
+                  <div class="variation">
+                    <h4>Вариант дизайна <?php echo $company_name ?> 6</h4>
+                    <a href="var6/index.php" class="batton">Посмотреть Дизайн</a>
+                  </div>
+                </div>
+                <!--div class="col-md-3 col-sm-6 col-xs-6">
+                  <div class="variation">
+                    <h4>Вариант дизайна <?php echo $company_name ?> 7</h4>
                     <a href="#" class="batton">Посмотреть Дизайн</a>
                   </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-6">
                   <div class="variation">
-                    <h4>Вариант дизайна "Красава" 6</h4>
+                    <h4>Вариант дизайна <?php echo $company_name ?> 8</h4>
                     <a href="#" class="batton">Посмотреть Дизайн</a>
                   </div>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xs-6">
-                  <div class="variation">
-                    <h4>Вариант дизайна "Красава" 7</h4>
-                    <a href="#" class="batton">Посмотреть Дизайн</a>
-                  </div>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xs-6">
-                  <div class="variation">
-                    <h4>Вариант дизайна "Красава" 8</h4>
-                    <a href="#" class="batton">Посмотреть Дизайн</a>
-                  </div>
-                </div>
+                </div-->
               </div>
             </div>
             <div class="variation_individual">
-            <h1><span>Индивидуальный дизайн</span> - от 20,000р</h1>
-            <a href="#"><img src="img/spesial_design.jpg" alt="Индивидуальный дизайн"></a>
+            <h1><span>Индивидуальный дизайн</span> - от 10,000р</h1>
+            <a href="#"><img class="individual" src="img/spesial_design.jpg" alt="Индивидуальный дизайн"></a>
             </div>
         </div>
 

@@ -12,7 +12,7 @@ include '../config.php';
     <meta charset="utf-8">
 
     <meta name="robots" content="all">
-    <title></title>
+    <title><?php echo $company_name ?></title>
     <meta name="description" content="">
 
     <meta name="keywords" content="">
@@ -209,8 +209,7 @@ include '../config.php';
                                             </a>
                                         </div>
                                         <div class="title">
-                                            <a href="#" target="_blank">                                            Продажа автомобилей с пробегом
-                                                </a> </div>
+                                            <a href="#"><?php echo $serv1; ?></a> </div>
                                     </div>
                                 </div>
                                 <div class="item-outer">
@@ -220,8 +219,8 @@ include '../config.php';
                                             </a>
                                         </div>
                                         <div class="title">
-                                            <a href="#" target="_blank">                                            Покупка подержанных автомобилей
-                                                </a> </div>
+                                          <a href="#"><?php echo $serv2; ?></a>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="item-outer">
@@ -231,8 +230,7 @@ include '../config.php';
                                             </a>
                                         </div>
                                         <div class="title">
-                                            <a href="#" target="_blank">                                            Разбор на запчасти
-                                                </a> </div>
+                                            <a href="#"><?php echo $serv1; ?></a> </div>
                                     </div>
                                 </div>
                             </div>

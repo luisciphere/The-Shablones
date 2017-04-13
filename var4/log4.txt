@@ -1,0 +1,25 @@
+http://demo.click5.ru/dogovor/434984-10/images/image.jpg
+<?php echo $img1; ?>)
+
+Здесь название конторы
+<?php echo $company_name; ?>
+
+сюда вставить имейл
+<?php echo $email; ?>
+
+телефон
+<?php echo $phone; ?>
+
+img/image_1.jpg
+<?php echo $img1; ?>
+
+img/image_2.jpg
+<?php echo $img2; ?>
+
+<div><a href="tel:+79205853346">+79205853346</a></div>
+<div><a href="tel:<?php echo $phone; ?>"><?php echo $phone; ?></a></div>
+
+<div><a href="mailto:herman@dcent.ru">herman@dcent.ru</a></div>
+<div><a href="mailto:<?php echo $email; ?>"><?php echo $email; ?></a></div>
+
+<img src="img/image_0.jpg" alt=“">

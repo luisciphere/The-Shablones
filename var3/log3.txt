@@ -1,0 +1,16 @@
+img/image_3.jpg
+<?php echo $img3; ?>
+
+img/image_2.jpg
+<?php echo $img2; ?>
+
+img/image.jpg
+<?php echo $img1; ?>
+
+Интер карс
+<?php echo $company_name; ?>
+
+<div><a href="tel:+79205853346">+79205853346</a></div>
+<div><a href="tel:<?php echo $phone; ?>"><?php echo $phone; ?></a></div>
+
+Важно: почему-то не подхватились изображения которые в style, хотя я там и поменял их на варайаблы

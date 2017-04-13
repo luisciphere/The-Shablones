@@ -11,7 +11,7 @@ include '../config.php';
     <meta charset="utf-8">
 
     <meta name="robots" content="all">
-    <title></title>
+    <title><?php echo $company_name ?></title>
     <meta name="description" content="">
 
     <meta name="keywords" content="">
@@ -488,7 +488,7 @@ include '../config.php';
                                             </a>
                                         </div>
                                         <div class="title">
-                                            Продажа автомобилей с пробегом
+                                            <?php echo $serv1; ?>
                                         </div>
                                         <div class="text">
                                             <p>Сотрудничайте с лидером рынка! К нам обратилось уже более 5000 клиентов. Большой опыт!</p>
@@ -503,7 +503,7 @@ include '../config.php';
                                             </a>
                                         </div>
                                         <div class="title">
-                                            Покупка подержанных автомобилей
+                                            <?php echo $serv2; ?>
                                         </div>
                                         <div class="text">
                                             <p>Внимательное отношение к каждому покупателю. Отношения с клиентами построены на принципах взаимного доверия и уважения.	</p>
@@ -518,7 +518,7 @@ include '../config.php';
                                             </a>
                                         </div>
                                         <div class="title">
-                                            Разбор на запчасти
+                                            <?php echo $serv3; ?>
                                         </div>
                                         <div class="text">
                                             <p>Вы экономите свое время, потому что мы идем в ногу со временем и используем только передовые технологии.</p>
@@ -606,7 +606,7 @@ include '../config.php';
                                 <div class="detail">
                                     <div class="title"><?php echo $company_name; ?></div>
                                     <div class="text">
-                                        <p>Продажа и скупка автомобилей</p>
+                                        <p><?php echo $spec ?></p>
                                     </div>
                                     <div class="more"><a href="#" target="_blank"><?php echo $email; ?></a></div>
 

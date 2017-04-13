@@ -1,0 +1,11 @@
+Интер карс
+<?php echo $company_name; ?>
+
+<div><a href="tel:+79205853346">+79205853346</a></div>
+<div><a href="tel:<?php echo $phone; ?>"><?php echo $phone; ?></a></div>
+
+img/new_project32_13_4.jpg
+<?php echo $img1; ?>
+
+<div><a href="tel:+79205853346">+79205853346</a></div>
+<div><a href="tel:<?php echo $phone; ?>"><?php echo $phone; ?></a></div>

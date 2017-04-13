@@ -204,8 +204,8 @@ margin-top: 10px;
   padding-bottom: 30px;
   font-size: 15px;
 }
-.why h3{
-border: 3px solid rgba(128,0,0,0.5) ;
+.why h3 {
+
 border-top: none;
 border-bottom: none;
 border-radius: 30px/90px;
@@ -249,7 +249,9 @@ margin-top: 8px;
 
 
 .image_style_what_u_get {
-  border-top: none; border-bottom: none; border-radius: 30px/90px;
+  border-top: none;
+  border-bottom: none;
+  border-radius: 8px;
   border: 2px solid rgba(165, 42, 42,0.5); /* Параметры рамки */
   height: 110px;
   width: 110px;
@@ -285,7 +287,7 @@ padding-bottom: 70px;
   margin-top: 30px;
   border-top: 1px solid grey;
 }
-.footer_info{
+.footer_info {
   padding-top: 20px;
     margin-bottom: 50px;
   }
@@ -293,10 +295,17 @@ padding-bottom: 70px;
   .logo_footer {
     float: left;
   }
+
   .top-contact_footer {
     float: right;
       width: 280px;
       margin-left: 0px;
       margin-right: 0px;
       padding-right: 0px;
+  }
+
+  @media screen and (max-width: 800px) {
+    .individual {
+      width: 80%;
+    }
   }
