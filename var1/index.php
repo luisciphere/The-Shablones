@@ -154,9 +154,9 @@ include '../config.php';
             <div class="editorElement layer-type-block ui-droppable block-10">
                 <div class="widget-11 slider-19 slider widget-type-slider editorElement layer-type-widget   wow bounceInLeft" data-setting-pause="4000" data-setting-mode="horizontal" data-setting-auto="1" data-setting-controls="1" data-setting-pager="1" data-setting-pager_selector=".slider-19 .slider-pager" data-setting-prev_selector=".slider-19 .slider-prev" data-setting-next_selector=".slider-19 .slider-next" data-setting-prev_text="" data-setting-next_text="">
                     <div class="slider-inner">
-                        <div class="slider-item-1 slider-item" data-src="<?php echo $img2; ?>">
+                        <div class="slider-item-1 slider-item" data-src="<?php echo $img1; ?>">
                         </div>
-                        <div class="slider-item-2 slider-item" data-src="<?php echo $img1; ?>">
+                        <div class="slider-item-2 slider-item" data-src="<?php echo $img2; ?>">
                         </div>
                     </div>
                     <div class="slider-controls">
@@ -205,7 +205,7 @@ include '../config.php';
                                 <div class="item-outer">
                                     <div class="item">
                                         <div class="image">
-                                            <a href="#" target="_blank"> <img src="<?php echo $img4; ?>" alt="">
+                                            <a href="#" target="_blank"> <img src="<?php echo $img3; ?>" alt="">
                                             </a>
                                         </div>
                                         <div class="title">
@@ -215,7 +215,7 @@ include '../config.php';
                                 <div class="item-outer">
                                     <div class="item">
                                         <div class="image">
-                                            <a href="#" target="_blank"> <img src="<?php echo $img5; ?>" alt="">
+                                            <a href="#" target="_blank"> <img src="<?php echo $img4; ?>" alt="">
                                             </a>
                                         </div>
                                         <div class="title">
@@ -226,7 +226,7 @@ include '../config.php';
                                 <div class="item-outer">
                                     <div class="item">
                                         <div class="image">
-                                            <a href="#" target="_blank"> <img src="<?php echo $img6; ?>" alt="">
+                                            <a href="#" target="_blank"> <img src="<?php echo $img5; ?>" alt="">
                                             </a>
                                         </div>
                                         <div class="title">
@@ -254,7 +254,7 @@ include '../config.php';
                 <div class="body">
                     <div class="figure   wow bounceInLeft">
                         <div class="image">
-                            <a href="#" target="_blank"><img src="<?php echo $img4; ?>" alt="" style="width:430px;"></a>
+                            <a href="#" target="_blank"><img src="<?php echo $img6; ?>" alt="" style="width:430px;"></a>
                         </div>
                     </div>
                     <div class="detail   wow bounceInRight">
