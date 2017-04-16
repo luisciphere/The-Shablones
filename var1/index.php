@@ -390,8 +390,8 @@ include '../config.php';
                     </div>
                 </div>
             </div>
-            <div class="up-38 widget-30 up_button widget-type-button_up editorElement layer-type-widget" data-speed="900">
-                <div class="icon"></div>
+            <!--div class="up-38 widget-30 up_button widget-type-button_up editorElement layer-type-widget" data-speed="900">
+                <div class="icon"></div-->
             </div>
         </div>
         <div class="map"><script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=3IzFFOGOXCQE9ZQHO8TAHhMQXm3ZyLWM&amp;width=100%25&amp;height=500&amp;lang=ru_RU&amp;sourceType=constructor&amp;scroll=true"></script>
