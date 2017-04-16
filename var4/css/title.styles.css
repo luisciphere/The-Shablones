@@ -1068,7 +1068,7 @@ body {
     box-sizing: border-box;
     height: 16px;
     width: 24px;
-    background: url("../images/lib_359501_tel.png") left 50% top 50% / auto auto no-repeat #ffb200;
+    background: url("../img/phone.png") left 50% top 50% / auto auto no-repeat #ffb200;
     margin-right: 12px;
     text-align: undefined;
     text-decoration: none;
@@ -1176,7 +1176,7 @@ body {
     box-sizing: border-box;
     height: 16px;
     width: 24px;
-    background: url("../images/lib_359501_chasi.png") left 50% top 50% / auto auto no-repeat #ffb200;
+    background: url("../img/clock.png") left 50% top 50% / auto auto no-repeat #ffb200;
     margin-right: 12px;
     text-align: undefined;
     text-decoration: none;
