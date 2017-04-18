@@ -22,4 +22,4 @@ $img6 = '../placeholder6.jpg';
 
 //MAY THE FORCE BE WITH YOU
 
-?>
+?> 
