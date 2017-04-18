@@ -6,7 +6,7 @@ include '../config.php';
 
 <html lang="ru">
 
-<head>
+<head> 
 
     <meta charset="utf-8">
 

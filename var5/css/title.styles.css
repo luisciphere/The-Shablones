@@ -553,7 +553,7 @@ body {
 	width: 30px;
 	height: 30px;
 	cursor: pointer;
-	background: url('../images/wm_button_close.png') 0 0 no-repeat;
+	background: url('../img/wm_button_close.png') 0 0 no-repeat;
 }
 .button-9 > a {
 	font-size: inherit;
@@ -717,7 +717,7 @@ body {
 	min-height: 40px;
 	margin-right: 5px;
 	text-align: left;
-	background: url('../images/phone.png') left 50% top 50%  / 25px no-repeat;
+	background: url('../img/phone.png') left 50% top 50%  / 25px no-repeat;
 }
 .phones-5 p:first-child {
 	margin-top: 0;
@@ -812,7 +812,7 @@ body {
 	min-height: 40px;
 	margin-right: 5px;
 	text-align: left;
-	background: url('../images/adress.png') left 50% top 50%  / 20px no-repeat;
+	background: url('../img/adress.png') left 50% top 50%  / 20px no-repeat;
 }
 .address-7 p:first-child {
 	margin-top: 0;
@@ -981,7 +981,7 @@ body {
 	cursor: pointer;
 	text-decoration: none;
 	color: #000;
-	background: url('../images/wm_menu_home.png') left 50% top 50% no-repeat;
+	background: url('../img/wm_menu_home.png') left 50% top 50% no-repeat;
 
 	-webkit-box-align: center;
 	-ms-flex-align: center;
@@ -1291,7 +1291,7 @@ body {
 	width: 20px;
 	height: 20px;
 	vertical-align: top;
-	background: url('../images/wm_block_list_slider-left.png') center center / auto auto no-repeat;
+	background: url('../img/left.png') center center / auto auto no-repeat;
 }
 .horizontal_blocklist-15 .next {
 	position: relative;
@@ -1302,7 +1302,7 @@ body {
 	width: 20px;
 	height: 20px;
 	vertical-align: top;
-	background: url('../images/wm_block_list_slider-right.png') center center / auto auto no-repeat;
+	background: url('../img/right.png') center center / auto auto no-repeat;
 }
 .horizontal_blocklist-15 .bx-pager a {
 	font-size: 0;
@@ -1879,10 +1879,10 @@ body {
 	letter-spacing: 0;
 	text-transform: none;
 	color: rgba(0,0,0,0);
-	background: url('../images/right.png') left 50% top 50% / 15px no-repeat #63d3d3;
+	background: url('../img/right.png') left 50% top 50% / 15px no-repeat #63d3d3;
 }
 .tabs-16 .more a:hover, .tabs-16 .more a.hover {
-	background: url('../images/right.png') left 50% top 50% / 15px no-repeat #13c2c2;
+	background: url('../img/right.png') left 50% top 50% / 15px no-repeat #13c2c2;
 }.widget-14 {
 	position: relative;
 	z-index: 7;
@@ -2045,7 +2045,7 @@ body {
 	margin-right: 0;
 	margin-bottom: 0;
 	margin-left: 0;
-	background: url('../images/wm_slider_spacer.gif') left 50% top 50% / cover no-repeat;
+	background: url('../img/wm_slider_spacer.gif') left 50% top 50% / cover no-repeat;
 }
 .slider-14 .slider-prev {
 	position: relative;
@@ -2060,10 +2060,10 @@ body {
 	margin-left: auto;
 	text-align: left;
 	vertical-align: top;
-	background: url('../images/left.png') left 50% top 50% / 20px no-repeat #0c8baf;
+	background: url('../img/left.png') left 50% top 50% / 20px no-repeat #0c8baf;
 }
 .slider-14 .slider-prev:hover, .slider-14 .slider-prev.hover {
-	background: url('../images/left.png') left 50% top 50% / 20px no-repeat #136d89;
+	background: url('../img/left.png') left 50% top 50% / 20px no-repeat #136d89;
 }
 .slider-14 .slider-next {
 	position: relative;
@@ -2077,10 +2077,10 @@ body {
 	margin-left: 1px;
 	text-align: left;
 	vertical-align: top;
-	background: url('../images/right.png') left 50% top 50% / 20px no-repeat #0c8baf;
+	background: url('../img/right.png') left 50% top 50% / 20px no-repeat #0c8baf;
 }
 .slider-14 .slider-next:hover, .slider-14 .slider-next.hover {
-	background: url('../images/right.png') left 50% top 50% / 20px no-repeat #136d89;
+	background: url('../img/right.png') left 50% top 50% / 20px no-repeat #136d89;
 }
 .slider-14 .slider-pager {
 	font-size: 0;
@@ -2490,8 +2490,8 @@ h6 {
 	margin-left: 0;
 	padding-right: 0;
 	padding-bottom: 40px;
-	background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat #176597;
-	background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat #176597;
+	background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat #176597;
+	background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat #176597;
 }
 .block-8:hover, .block-8.hover {
 	border-top: none;
@@ -2978,10 +2978,10 @@ h6 {
 	min-height: 40px;
 	text-align: left;
 	vertical-align: top;
-	background: url('../images/left2.png') left 50% top 50% / 14px no-repeat #fff;
+	background: url('../img/left2.png') left 50% top 50% / 14px no-repeat #fff;
 }
 .blocklist-27 .prev:hover, .blocklist-27 .prev.hover {
-	background: url('../images/left2.png') left 50% top 50% / 14px no-repeat #ffb217;
+	background: url('../img/left2.png') left 50% top 50% / 14px no-repeat #ffb217;
 }
 .blocklist-27 .next {
 	position: relative;
@@ -2996,10 +2996,10 @@ h6 {
 	margin-left: 1px;
 	text-align: left;
 	vertical-align: top;
-	background: url('../images/right2.png') left 50% top 50% / 14px no-repeat #fff;
+	background: url('../img/right2.png') left 50% top 50% / 14px no-repeat #fff;
 }
 .blocklist-27 .next:hover, .blocklist-27 .next.hover {
-	background: url('../images/right2.png') left 50% top 50% / 14px no-repeat #ffb217;
+	background: url('../img/right2.png') left 50% top 50% / 14px no-repeat #ffb217;
 }
 .blocklist-27 .bx-pager a {
 	font-size: 0;
@@ -3419,7 +3419,7 @@ h6 {
 	width: 20px;
 	height: 20px;
 	vertical-align: top;
-	background: url('../images/wm_block_list_slider-left.png') center center / auto auto no-repeat;
+	background: url('../img/left.png') center center / auto auto no-repeat;
 }
 .horizontal_blocklist-22 .next {
 	position: relative;
@@ -3430,7 +3430,7 @@ h6 {
 	width: 20px;
 	height: 20px;
 	vertical-align: top;
-	background: url('../images/wm_block_list_slider-right.png') center center / auto auto no-repeat;
+	background: url('../img/right.png') center center / auto auto no-repeat;
 }
 .horizontal_blocklist-22 .bx-pager a {
 	font-size: 0;
@@ -3933,8 +3933,8 @@ h6 {
 	margin-right: 0;
 	margin-bottom: 0;
 	margin-left: 0;
-	background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat, url('../images/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
-	background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat, url('../images/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
+	background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat, url('../img/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
+	background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat, url('../img/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
 }
 .block-4:hover, .block-4.hover {
 	border-top: none;
@@ -4404,7 +4404,7 @@ h6 {
 	width: 29px;
 	min-height: 29px;
 	cursor: pointer;
-	background: url('../images/wm_side_panel_cross.png') left 50% top 50% / auto no-repeat #eee;
+	background: url('../img/wm_side_panel_cross.png') left 50% top 50% / auto no-repeat #eee;
 }
 .side-panel-45 .side-panel-mask {
 	position: fixed;
@@ -4669,7 +4669,7 @@ h6 {
 	.phones-5 .icon {
 		width: 40px;
 		min-height: 40px;
-		background: url('../images/phone.png') left 50% top 50%  / 25px no-repeat;
+		background: url('../img/phone.png') left 50% top 50%  / 25px no-repeat;
 	}
 	.phones-5 .inner {
 		display: -webkit-box;
@@ -4720,7 +4720,7 @@ h6 {
 	.address-7 .icon {
 		width: 40px;
 		min-height: 40px;
-		background: url('../images/adress.png') left 50% top 50%  / 20px no-repeat;
+		background: url('../img/adress.png') left 50% top 50%  / 20px no-repeat;
 	}
 	.address-7 .inner {
 		display: -webkit-box;
@@ -5135,10 +5135,10 @@ h6 {
 		width: 40px;
 		min-height: 40px;
 		color: rgba(0,0,0,0);
-		background: url('../images/right.png') left 50% top 50% / 15px no-repeat #63d3d3;
+		background: url('../img/right.png') left 50% top 50% / 15px no-repeat #63d3d3;
 	}
 	.tabs-16 .more a:hover, .tabs-16 .more a.hover {
-		background: url('../images/right.png') left 50% top 50% / 15px no-repeat #13c2c2;
+		background: url('../img/right.png') left 50% top 50% / 15px no-repeat #13c2c2;
 	}
 	.widget-14 {
 		font-size: 12px;
@@ -5217,7 +5217,7 @@ h6 {
 		margin-bottom: 0;
 		margin-left: 0;
 		text-align: left;
-		background: url('../images/wm_slider_spacer.gif') left 50% top 50% / cover no-repeat;
+		background: url('../img/wm_slider_spacer.gif') left 50% top 50% / cover no-repeat;
 	}
 	.slider-14 .slider-prev {
 		box-sizing: border-box;
@@ -5231,10 +5231,10 @@ h6 {
 		padding-right: 0;
 		padding-bottom: 0;
 		padding-left: 0;
-		background: url('../images/left.png') left 50% top 50% / 20px no-repeat #0c8baf;
+		background: url('../img/left.png') left 50% top 50% / 20px no-repeat #0c8baf;
 	}
 	.slider-14 .slider-prev:hover, .slider-14 .slider-prev.hover {
-		background: url('../images/left.png') left 50% top 50% / 20px no-repeat #136d89;
+		background: url('../img/left.png') left 50% top 50% / 20px no-repeat #136d89;
 	}
 	.slider-14 .slider-next {
 		box-sizing: border-box;
@@ -5248,10 +5248,10 @@ h6 {
 		padding-right: 0;
 		padding-bottom: 0;
 		padding-left: 0;
-		background: url('../images/right.png') left 50% top 50% / 20px no-repeat #0c8baf;
+		background: url('../img/right.png') left 50% top 50% / 20px no-repeat #0c8baf;
 	}
 	.slider-14 .slider-next:hover, .slider-14 .slider-next.hover {
-		background: url('../images/right.png') left 50% top 50% / 20px no-repeat #136d89;
+		background: url('../img/right.png') left 50% top 50% / 20px no-repeat #136d89;
 	}
 	.slider-14 .bx-viewport {
 		box-sizing: border-box;
@@ -5401,8 +5401,8 @@ h6 {
 		padding-right: 0;
 		padding-bottom: 40px;
 		text-align: left;
-		background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat #176597;
-		background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat #176597;
+		background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat #176597;
+		background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat #176597;
 	}
 	.block-8:hover, .block-8.hover {
 		border-top: none;
@@ -5695,7 +5695,7 @@ h6 {
 		margin-left: 0;
 		padding-right: 335px;
 		text-align: left;
-		background: url('../images/54080283_2.jpg') left 50% top 50% / cover no-repeat;
+		background: url('../img/54080283_2.jpg') left 50% top 50% / cover no-repeat;
 	}
 	.widget-15 {
 		font-family: Arial, Helvetica, sans-serif;
@@ -5904,16 +5904,16 @@ h6 {
 		margin-bottom: 0;
 		margin-left: 0;
 		text-align: left;
-		background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat, url('../images/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
-		background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat, url('../images/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
+		background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat, url('../img/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
+		background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat, url('../img/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
 	}
 	.block-4:hover, .block-4.hover {
 		border-top: none;
 		border-right: none;
 		border-bottom: none;
 		border-left: none;
-		background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat, url('../images/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
-		background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat, url('../images/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
+		background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat, url('../img/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
+		background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat, url('../img/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
 	}
 	.block-15 {
 		font-family: Arial, Helvetica, sans-serif;
@@ -6382,7 +6382,7 @@ h6 {
 	.phones-5 .icon {
 		width: 40px;
 		min-height: 40px;
-		background: url('../images/phone.png') left 50% top 50%  / 25px no-repeat;
+		background: url('../img/phone.png') left 50% top 50%  / 25px no-repeat;
 	}
 	.phones-5 .inner {
 		display: -webkit-box;
@@ -6433,7 +6433,7 @@ h6 {
 	.address-7 .icon {
 		width: 40px;
 		min-height: 40px;
-		background: url('../images/adress.png') left 50% top 50%  / 20px no-repeat;
+		background: url('../img/adress.png') left 50% top 50%  / 20px no-repeat;
 	}
 	.address-7 .inner {
 		display: -webkit-box;
@@ -6845,10 +6845,10 @@ h6 {
 		width: 40px;
 		min-height: 40px;
 		color: rgba(0,0,0,0);
-		background: url('../images/right.png') left 50% top 50% / 15px no-repeat #63d3d3;
+		background: url('../img/right.png') left 50% top 50% / 15px no-repeat #63d3d3;
 	}
 	.tabs-16 .more a:hover, .tabs-16 .more a.hover {
-		background: url('../images/right.png') left 50% top 50% / 15px no-repeat #13c2c2;
+		background: url('../img/right.png') left 50% top 50% / 15px no-repeat #13c2c2;
 	}
 	.widget-14 {
 		font-size: 12px;
@@ -6930,7 +6930,7 @@ h6 {
 		margin-bottom: 0;
 		margin-left: 0;
 		text-align: left;
-		background: url('../images/wm_slider_spacer.gif') left 50% top 50% / cover no-repeat;
+		background: url('../img/wm_slider_spacer.gif') left 50% top 50% / cover no-repeat;
 	}
 	.slider-14 .slider-prev {
 		box-sizing: border-box;
@@ -6945,10 +6945,10 @@ h6 {
 		padding-bottom: 0;
 		padding-left: 0;
 		text-align: left;
-		background: url('../images/left.png') left 50% top 50% / 20px no-repeat #0c8baf;
+		background: url('../img/left.png') left 50% top 50% / 20px no-repeat #0c8baf;
 	}
 	.slider-14 .slider-prev:hover, .slider-14 .slider-prev.hover {
-		background: url('../images/left.png') left 50% top 50% / 20px no-repeat #136d89;
+		background: url('../img/left.png') left 50% top 50% / 20px no-repeat #136d89;
 	}
 	.slider-14 .slider-next {
 		box-sizing: border-box;
@@ -6963,10 +6963,10 @@ h6 {
 		padding-bottom: 0;
 		padding-left: 0;
 		text-align: left;
-		background: url('../images/right.png') left 50% top 50% / 20px no-repeat #0c8baf;
+		background: url('../img/right.png') left 50% top 50% / 20px no-repeat #0c8baf;
 	}
 	.slider-14 .slider-next:hover, .slider-14 .slider-next.hover {
-		background: url('../images/right.png') left 50% top 50% / 20px no-repeat #136d89;
+		background: url('../img/right.png') left 50% top 50% / 20px no-repeat #136d89;
 	}
 	.slider-14 .bx-viewport {
 		box-sizing: border-box;
@@ -7128,8 +7128,8 @@ h6 {
 		padding-right: 0;
 		padding-bottom: 40px;
 		text-align: left;
-		background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat #176597;
-		background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat #176597;
+		background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat #176597;
+		background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat #176597;
 	}
 	.block-8:hover, .block-8.hover {
 		border-top: none;
@@ -7417,7 +7417,7 @@ h6 {
 		margin-left: 0;
 		padding-right: 0;
 		text-align: left;
-		background: url('../images/54080283_2.jpg') left 50% top 50% / cover no-repeat;
+		background: url('../img/54080283_2.jpg') left 50% top 50% / cover no-repeat;
 	}
 	.widget-15 {
 		font-family: Arial, Helvetica, sans-serif;
@@ -7633,16 +7633,16 @@ h6 {
 		margin-bottom: 0;
 		margin-left: 0;
 		text-align: left;
-		background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat, url('../images/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
-		background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat, url('../images/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
+		background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat, url('../img/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
+		background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat, url('../img/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
 	}
 	.block-4:hover, .block-4.hover {
 		border-top: none;
 		border-right: none;
 		border-bottom: none;
 		border-left: none;
-		background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat, url('../images/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
-		background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat, url('../images/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
+		background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat, url('../img/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
+		background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat, url('../img/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
 	}
 	.block-15 {
 		font-family: Arial, Helvetica, sans-serif;
@@ -8102,7 +8102,7 @@ h6 {
 	.phones-5 .icon {
 		width: 40px;
 		min-height: 40px;
-		background: url('../images/phone.png') left 50% top 50%  / 25px no-repeat;
+		background: url('../img/phone.png') left 50% top 50%  / 25px no-repeat;
 	}
 	.phones-5 .inner {
 		display: -webkit-box;
@@ -8153,7 +8153,7 @@ h6 {
 	.address-7 .icon {
 		width: 40px;
 		min-height: 40px;
-		background: url('../images/adress.png') left 50% top 50%  / 20px no-repeat;
+		background: url('../img/adress.png') left 50% top 50%  / 20px no-repeat;
 	}
 	.address-7 .inner {
 		display: -webkit-box;
@@ -8601,10 +8601,10 @@ h6 {
 		width: 40px;
 		min-height: 40px;
 		color: rgba(0,0,0,0);
-		background: url('../images/right.png') left 50% top 50% / 15px no-repeat #63d3d3;
+		background: url('../img/right.png') left 50% top 50% / 15px no-repeat #63d3d3;
 	}
 	.tabs-16 .more a:hover, .tabs-16 .more a.hover {
-		background: url('../images/right.png') left 50% top 50% / 15px no-repeat #13c2c2;
+		background: url('../img/right.png') left 50% top 50% / 15px no-repeat #13c2c2;
 	}
 	.widget-14 {
 		font-size: 12px;
@@ -8686,7 +8686,7 @@ h6 {
 		margin-bottom: 0;
 		margin-left: 0;
 		text-align: left;
-		background: url('../images/wm_slider_spacer.gif') left 50% top 50% / cover no-repeat;
+		background: url('../img/wm_slider_spacer.gif') left 50% top 50% / cover no-repeat;
 	}
 	.slider-14 .slider-prev {
 		box-sizing: border-box;
@@ -8701,10 +8701,10 @@ h6 {
 		padding-bottom: 0;
 		padding-left: 0;
 		text-align: left;
-		background: url('../images/left.png') left 50% top 50% / 20px no-repeat #0c8baf;
+		background: url('../img/left.png') left 50% top 50% / 20px no-repeat #0c8baf;
 	}
 	.slider-14 .slider-prev:hover, .slider-14 .slider-prev.hover {
-		background: url('../images/left.png') left 50% top 50% / 20px no-repeat #136d89;
+		background: url('../img/left.png') left 50% top 50% / 20px no-repeat #136d89;
 	}
 	.slider-14 .slider-next {
 		box-sizing: border-box;
@@ -8719,10 +8719,10 @@ h6 {
 		padding-bottom: 0;
 		padding-left: 0;
 		text-align: left;
-		background: url('../images/right.png') left 50% top 50% / 20px no-repeat #0c8baf;
+		background: url('../img/right.png') left 50% top 50% / 20px no-repeat #0c8baf;
 	}
 	.slider-14 .slider-next:hover, .slider-14 .slider-next.hover {
-		background: url('../images/right.png') left 50% top 50% / 20px no-repeat #136d89;
+		background: url('../img/right.png') left 50% top 50% / 20px no-repeat #136d89;
 	}
 	.slider-14 .bx-viewport {
 		box-sizing: border-box;
@@ -8884,8 +8884,8 @@ h6 {
 		padding-right: 0;
 		padding-bottom: 40px;
 		text-align: left;
-		background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat #176597;
-		background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat #176597;
+		background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat #176597;
+		background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat #176597;
 	}
 	.block-8:hover, .block-8.hover {
 		border-top: none;
@@ -9198,7 +9198,7 @@ h6 {
 		margin-left: 0;
 		padding-right: 0;
 		text-align: left;
-		background: url('../images/54080283_2.jpg') left 50% top 50% / cover no-repeat;
+		background: url('../img/54080283_2.jpg') left 50% top 50% / cover no-repeat;
 	}
 	.widget-15 {
 		font-family: Arial, Helvetica, sans-serif;
@@ -9422,16 +9422,16 @@ h6 {
 		margin-bottom: 0;
 		margin-left: 0;
 		text-align: left;
-		background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat, url('../images/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
-		background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat, url('../images/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
+		background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat, url('../img/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
+		background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat, url('../img/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
 	}
 	.block-4:hover, .block-4.hover {
 		border-top: none;
 		border-right: none;
 		border-bottom: none;
 		border-left: none;
-		background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat, url('../images/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
-		background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat, url('../images/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
+		background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat, url('../img/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
+		background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat, url('../img/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
 	}
 	.block-15 {
 		font-family: Arial, Helvetica, sans-serif;
@@ -9903,7 +9903,7 @@ h6 {
 	.phones-5 .icon {
 		width: 40px;
 		min-height: 40px;
-		background: url('../images/phone.png') left 50% top 50%  / 25px no-repeat;
+		background: url('../img/phone.png') left 50% top 50%  / 25px no-repeat;
 	}
 	.phones-5 .inner {
 		display: -webkit-box;
@@ -9954,7 +9954,7 @@ h6 {
 	.address-7 .icon {
 		width: 40px;
 		min-height: 40px;
-		background: url('../images/adress.png') left 50% top 50%  / 20px no-repeat;
+		background: url('../img/adress.png') left 50% top 50%  / 20px no-repeat;
 	}
 	.address-7 .inner {
 		display: -webkit-box;
@@ -10399,10 +10399,10 @@ h6 {
 		width: 40px;
 		min-height: 40px;
 		color: rgba(0,0,0,0);
-		background: url('../images/right.png') left 50% top 50% / 15px no-repeat #63d3d3;
+		background: url('../img/right.png') left 50% top 50% / 15px no-repeat #63d3d3;
 	}
 	.tabs-16 .more a:hover, .tabs-16 .more a.hover {
-		background: url('../images/right.png') left 50% top 50% / 15px no-repeat #13c2c2;
+		background: url('../img/right.png') left 50% top 50% / 15px no-repeat #13c2c2;
 	}
 	.widget-14 {
 		font-size: 12px;
@@ -10486,7 +10486,7 @@ h6 {
 		margin-bottom: 0;
 		margin-left: 0;
 		text-align: left;
-		background: url('../images/wm_slider_spacer.gif') left 50% top 50% / cover no-repeat;
+		background: url('../img/wm_slider_spacer.gif') left 50% top 50% / cover no-repeat;
 	}
 	.slider-14 .slider-prev {
 		box-sizing: border-box;
@@ -10501,10 +10501,10 @@ h6 {
 		padding-bottom: 0;
 		padding-left: 0;
 		text-align: left;
-		background: url('../images/left.png') left 50% top 50% / 20px no-repeat #0c8baf;
+		background: url('../img/left.png') left 50% top 50% / 20px no-repeat #0c8baf;
 	}
 	.slider-14 .slider-prev:hover, .slider-14 .slider-prev.hover {
-		background: url('../images/left.png') left 50% top 50% / 20px no-repeat #136d89;
+		background: url('../img/left.png') left 50% top 50% / 20px no-repeat #136d89;
 	}
 	.slider-14 .slider-next {
 		box-sizing: border-box;
@@ -10519,10 +10519,10 @@ h6 {
 		padding-bottom: 0;
 		padding-left: 0;
 		text-align: left;
-		background: url('../images/right.png') left 50% top 50% / 20px no-repeat #0c8baf;
+		background: url('../img/right.png') left 50% top 50% / 20px no-repeat #0c8baf;
 	}
 	.slider-14 .slider-next:hover, .slider-14 .slider-next.hover {
-		background: url('../images/right.png') left 50% top 50% / 20px no-repeat #136d89;
+		background: url('../img/right.png') left 50% top 50% / 20px no-repeat #136d89;
 	}
 	.slider-14 .bx-viewport {
 		box-sizing: border-box;
@@ -10684,8 +10684,8 @@ h6 {
 		padding-right: 0;
 		padding-bottom: 40px;
 		text-align: left;
-		background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat #176597;
-		background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat #176597;
+		background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat #176597;
+		background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat #176597;
 	}
 	.block-8:hover, .block-8.hover {
 		border-top: none;
@@ -11006,7 +11006,7 @@ h6 {
 		margin-left: 0;
 		padding-right: 0;
 		text-align: left;
-		background: url('../images/54080283_2.jpg') left 50% top 50% / cover no-repeat;
+		background: url('../img/54080283_2.jpg') left 50% top 50% / cover no-repeat;
 	}
 	.widget-15 {
 		font-family: Arial, Helvetica, sans-serif;
@@ -11236,16 +11236,16 @@ h6 {
 		margin-bottom: 0;
 		margin-left: 0;
 		text-align: left;
-		background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat, url('../images/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
-		background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat, url('../images/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
+		background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat, url('../img/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
+		background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat, url('../img/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
 	}
 	.block-4:hover, .block-4.hover {
 		border-top: none;
 		border-right: none;
 		border-bottom: none;
 		border-left: none;
-		background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat, url('../images/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
-		background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat, url('../images/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
+		background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat, url('../img/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
+		background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat, url('../img/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
 	}
 	.block-15 {
 		font-family: Arial, Helvetica, sans-serif;
@@ -11677,7 +11677,7 @@ h6 {
 .side-panel .phones-5 .icon {
 	width: 40px;
 	min-height: 40px;
-	background: url('../images/phone.png') left 50% top 50%  / 25px no-repeat;
+	background: url('../img/phone.png') left 50% top 50%  / 25px no-repeat;
 }
 .side-panel .phones-5 .inner {
 	display: -webkit-box;
@@ -11727,7 +11727,7 @@ h6 {
 .side-panel .address-7 .icon {
 	width: 40px;
 	min-height: 40px;
-	background: url('../images/adress.png') left 50% top 50%  / 20px no-repeat;
+	background: url('../img/adress.png') left 50% top 50%  / 20px no-repeat;
 }
 .side-panel .address-7 .inner {
 	display: -webkit-box;
@@ -12077,10 +12077,10 @@ h6 {
 	width: 40px;
 	min-height: 40px;
 	color: rgba(0,0,0,0);
-	background: url('../images/right.png') left 50% top 50% / 15px no-repeat #63d3d3;
+	background: url('../img/right.png') left 50% top 50% / 15px no-repeat #63d3d3;
 }
 .side-panel .tabs-16 .more a:hover, .side-panel .tabs-16 .more a.hover {
-	background: url('../images/right.png') left 50% top 50% / 15px no-repeat #13c2c2;
+	background: url('../img/right.png') left 50% top 50% / 15px no-repeat #13c2c2;
 }
 .side-panel .widget-14 {
 	position: relative;
@@ -12152,17 +12152,17 @@ h6 {
 }
 .side-panel .slider-14 .slider-prev {
 	text-align: left;
-	background: url('../images/left.png') left 50% top 50% / 20px no-repeat #0c8baf;
+	background: url('../img/left.png') left 50% top 50% / 20px no-repeat #0c8baf;
 }
 .side-panel .slider-14 .slider-prev:hover, .side-panel .slider-14 .slider-prev.hover {
-	background: url('../images/left.png') left 50% top 50% / 20px no-repeat #136d89;
+	background: url('../img/left.png') left 50% top 50% / 20px no-repeat #136d89;
 }
 .side-panel .slider-14 .slider-next {
 	text-align: left;
-	background: url('../images/right.png') left 50% top 50% / 20px no-repeat #0c8baf;
+	background: url('../img/right.png') left 50% top 50% / 20px no-repeat #0c8baf;
 }
 .side-panel .slider-14 .slider-next:hover, .side-panel .slider-14 .slider-next.hover {
-	background: url('../images/right.png') left 50% top 50% / 20px no-repeat #136d89;
+	background: url('../img/right.png') left 50% top 50% / 20px no-repeat #136d89;
 }
 .side-panel .block-5 {
 	position: relative;
@@ -12264,8 +12264,8 @@ h6 {
 	margin-left: 0;
 	padding-right: 0;
 	padding-bottom: 40px;
-	background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat #176597;
-	background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat #176597;
+	background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat #176597;
+	background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat #176597;
 }
 .side-panel .block-8:hover, .side-panel .block-8.hover {
 	border-top: none;
@@ -12486,7 +12486,7 @@ h6 {
 	margin-bottom: 0;
 	margin-left: 0;
 	padding-right: 335px;
-	background: url('../images/54080283_2.jpg') left 50% top 50% / cover no-repeat;
+	background: url('../img/54080283_2.jpg') left 50% top 50% / cover no-repeat;
 }
 .side-panel .widget-15 {
 	position: relative;
@@ -12603,16 +12603,16 @@ h6 {
 	margin-right: 0;
 	margin-bottom: 0;
 	margin-left: 0;
-	background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat, url('../images/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
-	background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat, url('../images/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
+	background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat, url('../img/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
+	background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat, url('../img/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
 }
 .side-panel .block-4:hover, .side-panel .block-4.hover {
 	border-top: none;
 	border-right: none;
 	border-bottom: none;
 	border-left: none;
-	background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat, url('../images/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
-	background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../images/pattern3.png') left 50% top 50% / auto auto repeat, url('../images/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
+	background: -webkit-repeating-linear-gradient(left,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat, url('../img/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
+	background: repeating-linear-gradient(to right,rgba(48, 115, 68, .68) 0%,rgba(3, 96, 120, .68) 100%), url('../img/pattern3.png') left 50% top 50% / auto auto repeat, url('../img/54400153.png') left 50% top 50% / auto auto no-repeat #176597;
 }
 .side-panel .block-15 {
 	position: relative;
