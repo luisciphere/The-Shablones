@@ -40,11 +40,6 @@ include '../config.php';
 
     <script type="text/javascript" src="js/title.js"></script>
 
-    <script src="js/wow.min.js"></script>
-    <script>
-        new WOW().init();
-    </script>
-    <link rel="stylesheet" href="css/animate.css" type="text/css">
 
 <style>
     .block-11{   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("<?php echo $img3; ?>") left 50% top 50% / cover no-repeat fixed;}

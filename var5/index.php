@@ -47,11 +47,6 @@ include '../config.php';
             background: url('<?php echo $img1; ?>') left 50% top 50% / cover no-repeat;
         }
     </style>
-    <script src="js/wow.min.js"></script>
-    <script>
-        new WOW().init();
-    </script>
-    <link rel="stylesheet" href="css/animate.css" type="text/css">
 
 </head>
 

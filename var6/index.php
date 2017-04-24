@@ -6,7 +6,7 @@ include '../config.php';
 
 <html lang="ru">
 
-<head> 
+<head>
 
     <meta charset="utf-8">
 
@@ -37,11 +37,6 @@ include '../config.php';
     <script type="text/javascript" src="js/title.js"></script>
     <script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU" type="text/javascript"></script>
 
-    <script src="js/wow.min.js"></script>
-    <script>
-        new WOW().init();
-    </script>
-    <link rel="stylesheet" href="css/animate.css" type="text/css">
 
 
 </head>

@@ -44,11 +44,6 @@ include '../config.php';
         }
     </style>
 
-    <script src="js/wow.min.js"></script>
-    <script>
-        new WOW().init();
-    </script>
-    <link rel="stylesheet" href="css/animate.css" type="text/css">
 
 </head>
 
