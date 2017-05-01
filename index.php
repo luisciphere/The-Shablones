@@ -157,12 +157,12 @@ include 'config.php';
           <div class="row">
             <div class="col-xs-6 col-sm-6 col-md-4 ">
               <img src="img/contract.jpg" alt="" class="image_style_contact">
-              <h4>Договор для ООО "Красава"</h4>
+              <h4>Договор для <?php echo $company_name ?></h4>
               <a href="#" class="batton">Скачать</a>
             </div>
             <div class="col-xs-6 col-sm-6 col-md-4 ">
               <img src="img/bill.jpg" alt="" class="image_style_contact">
-              <h4>Счет для ООО "Красава"</h4>
+              <h4>Счет для <?php echo $company_name ?></h4>
               <a href="#" class="batton">Скачать</a>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-4 ">
@@ -322,12 +322,12 @@ include 'config.php';
           <div class="row">
             <div class="col-xs-6 col-sm-6 col-md-4  ">
               <img src="img/contract.jpg" alt="" class="image_style_contact">
-              <h4>Договор для ООО "Красава"</h4>
+              <h4>Договор для <?php echo $company_name ?></h4>
               <a href="#" class="batton">Скачать</a>
             </div>
             <div class="col-xs-6 col-sm-6 col-md-4  ">
               <img src="img/bill.jpg" alt="" class="image_style_contact">
-              <h4>Счет для ООО "Красава"</h4>
+              <h4>Счет для <?php echo $company_name ?></h4>
               <a href="#" class="batton">Скачать</a>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-4  ">
