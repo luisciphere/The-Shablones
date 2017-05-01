@@ -34,6 +34,8 @@ include '../config.php';
 
     <script src="js/jquery.min.js"></script>
 
+    <script type="text/javascript" src="js/title.js"></script>
+
 
 </head>
 
