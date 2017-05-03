@@ -8,7 +8,7 @@ include 'config.php';
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Коммерческое предложение для <?php echo $company_name; ?></title>
+  <title>Коммерческое предложение для «<?php echo $company_name; ?>»</title>
   <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
   <link rel="stylesheet" href="css/style.css">
@@ -32,7 +32,7 @@ include 'config.php';
     <div class="row">
       <div class="col-md-12">
         <div class="opening text-center">
-          <h1>Сайт для <?php echo $company_name; ?></h1>
+          <h1>Сайт для «<?php echo $company_name; ?>»</h1>
 
           <div class="opening_info row">
 
@@ -90,19 +90,19 @@ include 'config.php';
               <div class="row">
                 <div class="col-md-4 col-sm-6 col-xs-6">
                   <div class="variation">
-                    <h4>Вариант дизайна <?php echo $company_name ?> 1</h4>
+                    <h4>Вариант дизайна «<?php echo $company_name ?>» 1</h4>
                     <a href="var1/index.php" class="batton">Посмотреть Дизайн</a>
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-6">
                   <div class="variation">
-                    <h4>Вариант дизайна <?php echo $company_name ?> 2</h4>
+                    <h4>Вариант дизайна «<?php echo $company_name ?>» 2</h4>
                     <a href="var2/index.php" class="batton">Посмотреть Дизайн</a>
                   </div>
                 </a></div>
                 <div class="col-md-4 col-sm-6 col-xs-6">
                   <div class="variation">
-                    <h4>Вариант дизайна <?php echo $company_name ?> 3</h4>
+                    <h4>Вариант дизайна «<?php echo $company_name ?>» 3</h4>
                     <a href="var3/index.php" class="batton">Посмотреть Дизайн</a>
                   </div>
                 </div>
@@ -111,7 +111,7 @@ include 'config.php';
               <div class="row">
                 <div class="col-md-4 col-sm-6 col-xs-6">
                   <div class="variation">
-                    <h4>Вариант дизайна <?php echo $company_name ?> 4</h4>
+                    <h4>Вариант дизайна «<?php echo $company_name ?>» 4</h4>
                     <a href="var4/index.php" class="batton">Посмотреть Дизайн</a>
                   </div>
                 </div>
@@ -120,13 +120,13 @@ include 'config.php';
 
                 <div class="col-md-4 col-sm-6 col-xs-6">
                   <div class="variation">
-                    <h4>Вариант дизайна <?php echo $company_name ?> 5</h4>
+                    <h4>Вариант дизайна «<?php echo $company_name ?>» 5</h4>
                     <a href="var5/index.php" class="batton">Посмотреть Дизайн</a>
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-6">
                   <div class="variation">
-                    <h4>Вариант дизайна <?php echo $company_name ?> 6</h4>
+                    <h4>Вариант дизайна «<?php echo $company_name ?>» 6</h4>
                     <a href="var6/index.php" class="batton">Посмотреть Дизайн</a>
                   </div>
                 </div>
@@ -157,12 +157,12 @@ include 'config.php';
           <div class="row">
             <div class="col-xs-6 col-sm-6 col-md-4 ">
               <img src="img/contract.jpg" alt="" class="image_style_contact">
-              <h4>Договор для <?php echo $company_name ?></h4>
+              <h4>Договор для «<?php echo $company_name ?>»</h4>
               <a href="#" class="batton">Скачать</a>
             </div>
             <div class="col-xs-6 col-sm-6 col-md-4 ">
               <img src="img/bill.jpg" alt="" class="image_style_contact">
-              <h4>Счет для <?php echo $company_name ?></h4>
+              <h4>Счет для «<?php echo $company_name ?>»</h4>
               <a href="#" class="batton">Скачать</a>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-4 ">
@@ -322,12 +322,12 @@ include 'config.php';
           <div class="row">
             <div class="col-xs-6 col-sm-6 col-md-4  ">
               <img src="img/contract.jpg" alt="" class="image_style_contact">
-              <h4>Договор для <?php echo $company_name ?></h4>
+              <h4>Договор для «<?php echo $company_name ?>»</h4>
               <a href="#" class="batton">Скачать</a>
             </div>
             <div class="col-xs-6 col-sm-6 col-md-4  ">
               <img src="img/bill.jpg" alt="" class="image_style_contact">
-              <h4>Счет для <?php echo $company_name ?></h4>
+              <h4>Счет для «<?php echo $company_name ?>»</h4>
               <a href="#" class="batton">Скачать</a>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-4  ">
