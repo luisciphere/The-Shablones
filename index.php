@@ -157,8 +157,8 @@ include 'config.php';
           <div class="row">
             <div class="col-xs-6 col-sm-6 col-md-4 ">
               <img src="img/contract.jpg" alt="" class="image_style_contact">
-              <h4>Договор для «<?php echo $company_name ?>»</h4>
-              <a href="#" class="batton">Скачать</a>
+              <h4>Образец договора для «<?php echo $company_name ?>»</h4>
+              <a href="Obrazec_dogovora.pdf" class="batton">Скачать</a>
             </div>
             <div class="col-xs-6 col-sm-6 col-md-4 ">
               <img src="img/bill.jpg" alt="" class="image_style_contact">
@@ -322,8 +322,8 @@ include 'config.php';
           <div class="row">
             <div class="col-xs-6 col-sm-6 col-md-4  ">
               <img src="img/contract.jpg" alt="" class="image_style_contact">
-              <h4>Договор для «<?php echo $company_name ?>»</h4>
-              <a href="#" class="batton">Скачать</a>
+              <h4>Образец договора для «<?php echo $company_name ?>»</h4>
+              <a href="Obrazec_dogovora.pdf" class="batton">Скачать</a>
             </div>
             <div class="col-xs-6 col-sm-6 col-md-4  ">
               <img src="img/bill.jpg" alt="" class="image_style_contact">
