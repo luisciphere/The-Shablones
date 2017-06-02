@@ -39,7 +39,8 @@ include '../config.php';
     <script type="text/javascript" src="js/title.js"></script>
     <style>
         .block-13{
-            background: url(<?php echo $img1; ?>) 50% 0 no-repeat;
+            background: url(<?php echo $img1; ?>);
+            background-size: cover;
 
         }
     </style>
@@ -371,7 +372,7 @@ include '../config.php';
                                     <div class="item">
                                         <div class="item__image">
                                             <a href="http://dcent.ru/nopage/" target="_blank">
-                                                <img src="<?php echo $img1; ?>" alt="">
+                                                <img src="<?php echo $img2; ?>" alt="">
                                             </a>
                                         </div>
                                         <div class="item__title"><a href="http://dcent.ru/nopage/" target="_blank"><?php echo $serv1; ?></a></div>
@@ -386,7 +387,7 @@ include '../config.php';
                                     <div class="item">
                                         <div class="item__image">
                                             <a href="http://dcent.ru/nopage/" target="_blank">
-                                                <img src="<?php echo $img1; ?>" alt="">
+                                                <img src="<?php echo $img3; ?>" alt="">
                                             </a>
                                         </div>
                                         <div class="item__title"><a href="http://dcent.ru/nopage/" target="_blank"><?php echo $serv2; ?></a></div>
@@ -401,7 +402,7 @@ include '../config.php';
                                     <div class="item">
                                         <div class="item__image">
                                             <a href="http://dcent.ru/nopage/" target="_blank">
-                                                <img src="<?php echo $img1; ?>" alt="">
+                                                <img src="<?php echo $img4; ?>" alt="">
                                             </a>
                                         </div>
                                         <div class="item__title"><a href="http://dcent.ru/nopage/" target="_blank"><?php echo $serv3; ?></a></div>

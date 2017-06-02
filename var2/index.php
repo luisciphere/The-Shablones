@@ -36,6 +36,15 @@ include '../config.php';
 
     <script type="text/javascript" src="js/title.js"></script>
 
+    <style type="text/css">
+      .slider-temp {
+        height: 600px;
+        background: url('<?php echo $img1; ?>');
+        background-size: cover;
+        margin-top: 10px;
+      }
+    </style>
+
 
 </head>
 
@@ -197,26 +206,13 @@ include '../config.php';
                 </div>
             </div>
         </div>
-        <div class="widget-71 slider-122 slider widget-type-slider editorElement layer-type-widget" data-setting-pause="4000" data-setting-mode="horizontal" data-setting-auto="1" data-setting-controls="" data-setting-pager="1" data-setting-pager_selector=".slider-122 .slider-pager" data-setting-prev_selector=".slider-122 .slider-prev" data-setting-next_selector=".slider-122 .slider-next" data-setting-prev_text="" data-setting-next_text="" data-text_position="in">
-            <div class="slider-inner">
-                <div class="slider-item-1 slider-item" data-src="<?php echo $img1; ?>">
-                    <a href="#" target="_blank"></a>
-                </div>
-                <div class="slider-item-2 slider-item" data-src="<?php echo $img2; ?>">
-                    <a href="#" target="_blank"></a>
-                </div>
-                <div class="slider-item-3 slider-item" data-src="<?php echo $img3; ?>">
-                    <a href="#" target="_blank"></a>
-                </div>
-            </div>
-            <div class="slider-pager-wrap">
-                <div class="slider-pager">
-                    <a href="" data-slide-index="0"></a>
-                    <a href="" data-slide-index="1"></a>
-                    <a href="" data-slide-index="2"></a>
-                </div>
-            </div>
+
+
+        <div class="slider-temp">
+
         </div>
+
+
 
         <div class="editorElement layer-type-block ui-droppable block-35">
             <div class="layout columned columns-2 layout_center layout_83_id_85">
