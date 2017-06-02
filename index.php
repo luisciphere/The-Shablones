@@ -22,7 +22,7 @@ include 'config.php';
             Logo
           </div>
           <div class="top-contact pull-right">
-            +7 952 426-92-34
+            +7 999 841-57-10
           </div>
         </div>
       </div>
@@ -350,7 +350,7 @@ include 'config.php';
               Logo
             </div>
             <div class="top-contact top-contact_footer  col-xs-12 col-sm-8">
-              +7 952 426-92-34
+              +7 999 841-57-10
             </div>
             </div>
         </div>
