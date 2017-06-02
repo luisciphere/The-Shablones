@@ -41,6 +41,7 @@ include '../config.php';
         height: 600px;
         background: url('<?php echo $img1; ?>');
         background-size: cover;
+        background-position: center;
         margin-top: 10px;
       }
     </style>
