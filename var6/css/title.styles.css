@@ -466,7 +466,7 @@ body{background:#ffffff; text-align:left; z-index:2; font-family:Arial, Helvetic
 .horizontal_block-19 p:first-child{margin-top:0px}
 .horizontal_block-19 p:last-child{margin-bottom:0px}
 .horizontal_block-19 .figure{display:block}
-.horizontal_block-19 .image{box-sizing:border-box; text-align:left; width:300px; min-height:375px}
+.horizontal_block-19 .image{box-sizing:border-box; text-align:left; width:300px;height:375px}
 .horizontal_block-19 .image img{vertical-align:middle; box-sizing:content-box; width:auto; height:auto; text-align:left; -ms-box-shadow:0px 5px 20px  rgba(0,0,0,0.2); -moz-box-shadow:0px 5px 20px  rgba(0,0,0,0.2); -webkit-box-shadow:0px 5px 20px  rgba(0,0,0,0.2); box-shadow:0px 5px 20px  rgba(0,0,0,0.2)}
 .horizontal_block-19 .title{box-sizing:border-box; font-size:24px; margin-bottom:5px; font-family:Ubuntu, sans-serif; color:#363236; font-style:normal; line-height:1.2; letter-spacing:0; text-align:left; text-indent:0; text-transform:none; text-decoration:none; font-weight:bold}
 .horizontal_block-19 .text{box-sizing:border-box; font-family:Ubuntu, sans-serif; font-size:15px; color:#5e5b57; font-style:normal; line-height:1.6; letter-spacing:0; text-align:left; text-indent:0; text-transform:none; text-decoration:none; margin-top:28px}
