@@ -20,6 +20,6 @@ $img4 = '../placeholder4.jpg';
 $img5 = '../placeholder5.jpg';
 $img6 = '../placeholder6.jpg';
 
-//MAY THE FORCE BE WITH YOU
+//MAY THE FORCE BE WITH YOU.
 
 ?>

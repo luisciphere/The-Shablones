@@ -223,7 +223,7 @@ include '../config.php';
                                             </a>
                                         </div>
                                         <div class="title">
-                                            <a href="#"><?php echo $serv1; ?></a> </div>
+                                            <a href="#"><?php echo $serv3; ?></a> </div>
                                     </div>
                                 </div>
                             </div>
