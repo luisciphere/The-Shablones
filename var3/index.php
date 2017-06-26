@@ -49,19 +49,19 @@ include '../config.php';
     .image.image1 a{
         display: block;
         height: 400px;
-        background: url(<?php echo $img1; ?>) 50% 0 no-repeat;
+        background: url(<?php echo $img4; ?>) 50% 0 no-repeat;
         background-size:cover;
     }
     .image.image2 a{
         display: block;
         height: 400px;
-        background: url(<?php echo $img2; ?>) 50% 0 no-repeat;
+        background: url(<?php echo $img5; ?>) 50% 0 no-repeat;
         background-size:cover;
     }
     .image.image3 a{
         display: block;
         height: 400px;
-        background: url(<?php echo $img2; ?>) 50% 0 no-repeat;
+        background: url(<?php echo $img6; ?>) 50% 0 no-repeat;
         background-size:cover;
     }
     </style>
@@ -479,22 +479,8 @@ include '../config.php';
 
 
                                 <figure class="gallery-item" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                                    <a href="<?php echo $img2; ?>" itemprop="contentUrl" data-title="Витражи" data-size="900x600">
-                                        <img src="<?php echo $img2; ?>" alt="">
-                                    </a>
-                                </figure>
-
-
-                                <figure class="gallery-item" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                                    <a href="<?php echo $img5; ?>" itemprop="contentUrl" data-title="Витражи" data-size="900x600">
-                                        <img src="<?php echo $img5; ?>" alt="">
-                                    </a>
-                                </figure>
-
-
-                                <figure class="gallery-item" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                                    <a href="<?php echo $img6; ?>" itemprop="contentUrl" data-title="Витражи" data-size="900x600">
-                                        <img src="<?php echo $img6; ?>" alt="">
+                                    <a href="<?php echo $img1; ?>" itemprop="contentUrl" data-title="Витражи" data-size="900x600">
+                                        <img src="<?php echo $img1; ?>" alt="">
                                     </a>
                                 </figure>
 
@@ -507,21 +493,15 @@ include '../config.php';
 
 
                                 <figure class="gallery-item" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                                    <a href="<?php echo $img5; ?>" itemprop="contentUrl" data-title="Витражи" data-size="900x600">
-                                        <img src="<?php echo $img5; ?>" alt="">
+                                    <a href="<?php echo $img3; ?>" itemprop="contentUrl" data-title="Витражи" data-size="900x600">
+                                        <img src="<?php echo $img3; ?>" alt="">
                                     </a>
                                 </figure>
 
 
                                 <figure class="gallery-item" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                                    <a href="<?php echo $img6; ?>" itemprop="contentUrl" data-title="Витражи" data-size="900x600">
-                                        <img src="<?php echo $img6; ?>" alt="">
-                                    </a>
-                                </figure>
-
-                                <figure class="gallery-item" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                                    <a href="<?php echo $img2; ?>" itemprop="contentUrl" data-title="Витражи" data-size="900x600">
-                                        <img src="<?php echo $img2; ?>" alt="">
+                                    <a href="<?php echo $img4; ?>" itemprop="contentUrl" data-title="Витражи" data-size="900x600">
+                                        <img src="<?php echo $img4; ?>" alt="">
                                     </a>
                                 </figure>
 
@@ -542,6 +522,26 @@ include '../config.php';
                                 <figure class="gallery-item" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
                                     <a href="<?php echo $img2; ?>" itemprop="contentUrl" data-title="Витражи" data-size="900x600">
                                         <img src="<?php echo $img2; ?>" alt="">
+                                    </a>
+                                </figure>
+
+
+                                <figure class="gallery-item" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                                    <a href="<?php echo $img1; ?>" itemprop="contentUrl" data-title="Витражи" data-size="900x600">
+                                        <img src="<?php echo $img1; ?>" alt="">
+                                    </a>
+                                </figure>
+
+
+                                <figure class="gallery-item" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                                    <a href="<?php echo $img3; ?>" itemprop="contentUrl" data-title="Витражи" data-size="900x600">
+                                        <img src="<?php echo $img3; ?>" alt="">
+                                    </a>
+                                </figure>
+
+                                <figure class="gallery-item" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                                    <a href="<?php echo $img4; ?>" itemprop="contentUrl" data-title="Витражи" data-size="900x600">
+                                        <img src="<?php echo $img4; ?>" alt="">
                                     </a>
                                 </figure>
 
