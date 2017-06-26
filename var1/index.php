@@ -306,43 +306,43 @@ include '../config.php';
 
 
                         <figure class="gallery-item   wow fadeInLeft" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                            <a href="<?php echo $img4; ?>" itemprop="contentUrl"  data-size="1565x1030">
-                                <img src="<?php echo $img4; ?>" alt="">
+                            <a href="<?php echo $img1; ?>" itemprop="contentUrl"  data-size="1565x1030">
+                                <img src="<?php echo $img1; ?>" alt="">
                             </a>
                         </figure>
 
 
                         <figure class="gallery-item   wow bounceInDown" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                            <a href="<?php echo $img5; ?>" itemprop="contentUrl"  data-size="1565x1030">
-                                <img src="<?php echo $img5; ?>" alt="">
+                            <a href="<?php echo $img2; ?>" itemprop="contentUrl"  data-size="1565x1030">
+                                <img src="<?php echo $img2; ?>" alt="">
                             </a>
                         </figure>
 
 
                         <figure class="gallery-item   wow fadeInRight" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                            <a href="<?php echo $img6; ?>" itemprop="contentUrl"  data-size="1565x1030">
-                                <img src="<?php echo $img6; ?>" alt="">
+                            <a href="<?php echo $img3; ?>" itemprop="contentUrl"  data-size="1565x1030">
+                                <img src="<?php echo $img3; ?>" alt="">
                             </a>
                         </figure>
 
 
                         <figure class="gallery-item  wow fadeInLeft" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                            <a href="<?php echo $img4; ?>" itemprop="contentUrl"  data-size="1565x1030">
+                                <img src="<?php echo $img4; ?>" alt="">
+                            </a>
+                        </figure>
+
+
+                        <figure class="gallery-item  wow bounceInUp" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
                             <a href="<?php echo $img5; ?>" itemprop="contentUrl"  data-size="1565x1030">
                                 <img src="<?php echo $img5; ?>" alt="">
                             </a>
                         </figure>
 
 
-                        <figure class="gallery-item  wow bounceInUp" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                        <figure class="gallery-item  wow fadeInRight" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
                             <a href="<?php echo $img6; ?>" itemprop="contentUrl"  data-size="1565x1030">
                                 <img src="<?php echo $img6; ?>" alt="">
-                            </a>
-                        </figure>
-
-
-                        <figure class="gallery-item  wow fadeInRight" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                            <a href="<?php echo $img4; ?>" itemprop="contentUrl"  data-size="1565x1030">
-                                <img src="<?php echo $img4; ?>" alt="">
                             </a>
                         </figure>
                     </div>
@@ -431,6 +431,17 @@ include '../config.php';
     </script>
     <noscript><div><img src="https://mc.yandex.ru/watch/44930557" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
     <!-- /Yandex.Metrika counter -->
+
+    <style>
+      .gallery-16 {
+        margin-bottom: 40px;
+      }
+
+      .blocklist-13 .image img {
+        height: 160px;
+        overflow: hidden;
+      }
+    </style>
 </body>
 
 </html>
