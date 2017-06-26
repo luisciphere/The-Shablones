@@ -370,10 +370,28 @@ include '../config.php';
                             <div class="news__list">
                                 <div class="item-outer">
                                     <div class="item">
-                                        <div class="item__image">
-                                            <a href="http://dcent.ru/nopage/" target="_blank">
-                                                <img src="<?php echo $img2; ?>" alt="">
-                                            </a>
+                                      <style>
+                                        .img_1 {
+                                          background: url('<?php echo $img2; ?>');
+                                          background-size: cover;
+                                          height: 190px;
+                                        }
+
+                                        .img_2 {
+                                          background: url('<?php echo $img3; ?>');
+                                          background-size: cover;
+                                          height: 190px;
+                                        }
+
+                                        .img_3 {
+                                          background: url('<?php echo $img4; ?>');
+                                          background-size: cover;
+                                          height: 190px;
+                                        }
+                                      </style>
+
+                                        <div class="item__image img_1">
+
                                         </div>
                                         <div class="item__title"><a href="http://dcent.ru/nopage/" target="_blank"><?php echo $serv1; ?></a></div>
                                         <div class="item__text">
@@ -385,10 +403,7 @@ include '../config.php';
                                 </div>
                                 <div class="item-outer">
                                     <div class="item">
-                                        <div class="item__image">
-                                            <a href="http://dcent.ru/nopage/" target="_blank">
-                                                <img src="<?php echo $img3; ?>" alt="">
-                                            </a>
+                                        <div class="item__image img_2">
                                         </div>
                                         <div class="item__title"><a href="http://dcent.ru/nopage/" target="_blank"><?php echo $serv2; ?></a></div>
                                         <div class="item__text">
@@ -400,10 +415,7 @@ include '../config.php';
                                 </div>
                                 <div class="item-outer">
                                     <div class="item">
-                                        <div class="item__image">
-                                            <a href="http://dcent.ru/nopage/" target="_blank">
-                                                <img src="<?php echo $img4; ?>" alt="">
-                                            </a>
+                                        <div class="item__image img_3">
                                         </div>
                                         <div class="item__title"><a href="http://dcent.ru/nopage/" target="_blank"><?php echo $serv3; ?></a></div>
 
