@@ -468,6 +468,26 @@ include '../config.php';
                         <div class="header_text">Наши услуги</div>
                     </div>
 
+                    <style>
+                      .usl_1 {
+                        background: url('<?php echo $img2; ?>');
+                        height: 200px;
+                        background-size: cover;
+                      }
+
+                      .usl_2 {
+                        background: url('<?php echo $img3; ?>');
+                        height: 200px;
+                        background-size: cover;
+                      }
+
+                      .usl_3 {
+                        background: url('<?php echo $img6; ?>');
+                        height: 200px;
+                        background-size: cover;
+                      }
+                    </style>
+
                     <div class="body-outer">
                         <div class="body">
                             <div class="swipe-shadow-left"></div>
@@ -475,9 +495,7 @@ include '../config.php';
                             <div class="list">
                                 <div class="item-outer">
                                     <div class="item">
-                                        <div class="image">
-                                            <a href="#" target="_blank"> <img src="<?php echo $img2; ?>" style="width:307px" alt="">
-                                            </a>
+                                        <div class="image usl_1">
                                         </div>
                                         <div class="title">
                                             <?php echo $serv1; ?>
@@ -490,9 +508,7 @@ include '../config.php';
                                 </div>
                                 <div class="item-outer">
                                     <div class="item">
-                                        <div class="image">
-                                            <a href="#" target="_blank"> <img src="<?php echo $img3; ?>" style="width:307px" alt="">
-                                            </a>
+                                        <div class="image usl_2">
                                         </div>
                                         <div class="title">
                                             <?php echo $serv2; ?>
@@ -505,9 +521,7 @@ include '../config.php';
                                 </div>
                                 <div class="item-outer">
                                     <div class="item">
-                                        <div class="image">
-                                            <a href="#" target="_blank"> <img src="<?php echo $img6; ?>" style="width:307px" alt="">
-                                            </a>
+                                        <div class="image usl_3">
                                         </div>
                                         <div class="title">
                                             <?php echo $serv3; ?>
