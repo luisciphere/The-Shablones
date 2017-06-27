@@ -36,6 +36,15 @@ include '../config.php';
 
     <script type="text/javascript" src="js/title.js"></script>
 
+    <script type="text/javascript">
+      $(function() {
+        $("a[href*=#]").click(function(e) {
+            e.preventDefault();
+            alert('Внутренние страницы еще не созданы. После заключения договора мы создадим внутренние страницы и наполним их вашей информацией. Вы получаете полноценный многостраничный корпоративный сайт.');
+        });
+      });
+    </script>
+
     <style type="text/css">
       .slider-temp {
         height: 600px;
@@ -83,7 +92,7 @@ include '../config.php';
                                         <div class="cell-text">
                                             <div class="title">Email:</div>
                                             <div class="text_body">
-                                                <a href="<?php echo $email; ?>"><?php echo $email; ?></a>
+                                                <a href="mailto:<?php echo $email; ?>"><?php echo $email; ?></a>
                                             </div>
                                         </div>
                                     </div>

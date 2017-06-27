@@ -37,6 +37,14 @@ include '../config.php';
     <script type="text/javascript" src="js/title.js"></script>
     <script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU" type="text/javascript"></script>
 
+    <script type="text/javascript">
+      $(function() {
+        $("a[href*=#]").click(function(e) {
+            e.preventDefault();
+            alert('Внутренние страницы еще не созданы. После заключения договора мы создадим внутренние страницы и наполним их вашей информацией. Вы получаете полноценный многостраничный корпоративный сайт.');
+        });
+      });
+    </script>
 
 
 </head>

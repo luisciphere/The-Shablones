@@ -36,6 +36,16 @@ include '../config.php';
 
 
     <script type="text/javascript" src="js/title.js"></script>
+
+    <script type="text/javascript">
+      $(function() {
+        $("a[href*=#]").click(function(e) {
+            e.preventDefault();
+            alert('Внутренние страницы еще не созданы. После заключения договора мы создадим внутренние страницы и наполним их вашей информацией. Вы получаете полноценный многостраничный корпоративный сайт.');
+        });
+      });
+    </script>
+
     <style>
 
         .right-image{
@@ -128,21 +138,21 @@ include '../config.php';
                     <div class="menu-scroll">
                         <ul>
                             <li class="opened active menu-item"><a href="#"><span class="menu-item-text">Главная</span></a></li>
-                            <li class="menu-item"><a href="http://dcent.ru/nopage/" target="_blank"><span class="menu-item-text">Наши услуги</span></a></li>
-                            <li class="menu-item"><a href="http://dcent.ru/nopage/" target="_blank"><span class="menu-item-text">Прайс-лист</span></a>
+                            <li class="menu-item"><a href="http://dcent.ru/#" target="_blank"><span class="menu-item-text">Наши услуги</span></a></li>
+                            <li class="menu-item"><a href="http://dcent.ru/#" target="_blank"><span class="menu-item-text">Прайс-лист</span></a>
                                 <ul class="level-2">
-                                    <li><a href="http://dcent.ru/nopage/" target="_blank">пункт меню</a></li>
-                                    <li><a href="http://dcent.ru/nopage/" target="_blank">пункт меню</a></li>
-                                    <li><a href="http://dcent.ru/nopage/" target="_blank">пункт меню</a></li>
-                                    <li><a href="http://dcent.ru/nopage/" target="_blank">пункт меню</a></li>
-                                    <li><a href="http://dcent.ru/nopage/" target="_blank">пункт меню</a></li>
-                                    <li><a href="http://dcent.ru/nopage/" target="_blank">пункт меню</a></li>
+                                    <li><a href="http://dcent.ru/#" target="_blank">пункт меню</a></li>
+                                    <li><a href="http://dcent.ru/#" target="_blank">пункт меню</a></li>
+                                    <li><a href="http://dcent.ru/#" target="_blank">пункт меню</a></li>
+                                    <li><a href="http://dcent.ru/#" target="_blank">пункт меню</a></li>
+                                    <li><a href="http://dcent.ru/#" target="_blank">пункт меню</a></li>
+                                    <li><a href="http://dcent.ru/#" target="_blank">пункт меню</a></li>
                                 </ul>
                             </li>
-                            <li class="menu-item"><a href="http://dcent.ru/nopage/" target="_blank"><span class="menu-item-text">О компании</span></a></li>
-                            <li class="menu-item"><a href="http://dcent.ru/nopage/" target="_blank"><span class="menu-item-text">Портфолио</span></a></li>
-                            <li class="menu-item"><a href="http://dcent.ru/nopage/" target="_blank"><span class="menu-item-text">Отзывы</span></a></li>
-                            <li class="menu-item"><a href="http://dcent.ru/nopage/" target="_blank"><span class="menu-item-text">Контакты</span></a></li>
+                            <li class="menu-item"><a href="http://dcent.ru/#" target="_blank"><span class="menu-item-text">О компании</span></a></li>
+                            <li class="menu-item"><a href="http://dcent.ru/#" target="_blank"><span class="menu-item-text">Портфолио</span></a></li>
+                            <li class="menu-item"><a href="http://dcent.ru/#" target="_blank"><span class="menu-item-text">Отзывы</span></a></li>
+                            <li class="menu-item"><a href="http://dcent.ru/#" target="_blank"><span class="menu-item-text">Контакты</span></a></li>
                         </ul>
                     </div>
 
@@ -268,15 +278,15 @@ include '../config.php';
                         <div>
                             <div class="area-item">
                                 <p>Сотрудничайте с лидером рынка! К нам обратилось уже более 5000 клиентов. Большой опыт!   </p>
-                                <div class="more"><a href="http://dcent.ru/nopage/" target="_blank">подробнее</a></div>
+                                <div class="more"><a href="http://dcent.ru/#" target="_blank">подробнее</a></div>
                             </div>
                             <div class="area-item">
                                 <p>Внимательное отношение к каждому покупателю. Отношения с клиентами построены на принципах взаимного доверия и уважения.  </p>
-                                <div class="more"><a href="http://dcent.ru/nopage/" target="_blank">подробнее</a></div>
+                                <div class="more"><a href="http://dcent.ru/#" target="_blank">подробнее</a></div>
                             </div>
                             <div class="area-item">
                                 <p>Вы экономите свое время, потому что мы идем в ногу со временем и используем только передовые технологии.</p>
-                                <div class="more"><a href="http://dcent.ru/nopage/" target="_blank">подробнее</a></div>
+                                <div class="more"><a href="http://dcent.ru/#" target="_blank">подробнее</a></div>
                             </div>
 
                         </div>
@@ -315,7 +325,7 @@ include '../config.php';
                     </h1>
                         <article class="content-20 content widget-13 widget-type-content editorElement layer-type-widget">
                             <p>
-                                <a href="dcent.ru/nopage/" class="highslide" onclick="return hs.expand(this)"><img height="190" src="<?php echo $img5; ?>" style="border-width: 0px; float: left; margin: 10px;" width="286" /></a>Наша компания уже более 10 лет работает на рынке города и области!
+                                <a href="dcent.ru/#" class="highslide" onclick="return hs.expand(this)"><img height="190" src="<?php echo $img5; ?>" style="border-width: 0px; float: left; margin: 10px;" width="286" /></a>Наша компания уже более 10 лет работает на рынке города и области!
 
                                 У нас работают ПРОФЕССИОНАЛЫ высочайшего класса, которые смогут воплотить практически любую Вашу задумку в жизнь.
 
@@ -327,7 +337,7 @@ include '../config.php';
 
                                 Звоните, и наши специалисты ответят на все Ваши вопросы.</p>
                             <p>
-                                <a href="http://dcent.ru/nopage/" class="highslide" onclick="return hs.expand(this)"><img height="180" src="<?php echo $img6; ?>" style="border-width: 0px; float: right; margin: 10px;" width="270" /></a>
+                                <a href="http://dcent.ru/#" class="highslide" onclick="return hs.expand(this)"><img height="180" src="<?php echo $img6; ?>" style="border-width: 0px; float: right; margin: 10px;" width="270" /></a>
                             </p>
                             <p>Наша компания уже более 10 лет работает на рынке города и области!
 
@@ -580,11 +590,11 @@ include '../config.php';
                         <nav class="menu-columns-wrap menuColumns menu-col-31 widget-20 wm-widget-menu widget-type-menu_columns editorElement layer-type-widget" data-columns="3,4,3,2,1" data-has_delimiters="0,0">
                             <ul class="menu-columns-items">
                                 <li class="opened active menu-item"><a href="#"><span class="menu-item-text">Главная</span></a></li>
-                                <li class="menu-item"><a href="http://dcent.ru/nopage/" target="_blank"><span class="menu-item-text">Наши услуги</span></a></li>
-                                <li class="menu-item"><a href="http://dcent.ru/nopage/" target="_blank"><span class="menu-item-text">Прайс-лист</span></a></li>
-                                <li class="menu-item"><a href="http://dcent.ru/nopage/" target="_blank"><span class="menu-item-text">О компании</span></a></li>
-                                <li class="menu-item"><a href="http://dcent.ru/nopage/" target="_blank"><span class="menu-item-text">Портфолио</span></a></li>
-                                <li class="menu-item"><a href="http://dcent.ru/nopage/" target="_blank"><span class="menu-item-text">Отзывы</span></a></li>
+                                <li class="menu-item"><a href="http://dcent.ru/#" target="_blank"><span class="menu-item-text">Наши услуги</span></a></li>
+                                <li class="menu-item"><a href="http://dcent.ru/#" target="_blank"><span class="menu-item-text">Прайс-лист</span></a></li>
+                                <li class="menu-item"><a href="http://dcent.ru/#" target="_blank"><span class="menu-item-text">О компании</span></a></li>
+                                <li class="menu-item"><a href="http://dcent.ru/#" target="_blank"><span class="menu-item-text">Портфолио</span></a></li>
+                                <li class="menu-item"><a href="http://dcent.ru/#" target="_blank"><span class="menu-item-text">Отзывы</span></a></li>
                                 <li class="menu-item"><a href="http://dcent.ru/nopage/" target="_blank"><span class="menu-item-text">Контакты</span></a></li>
                             </ul>
                             <div class="menu-columns-content"></div>

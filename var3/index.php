@@ -40,6 +40,15 @@ include '../config.php';
 
     <script type="text/javascript" src="js/title.js"></script>
 
+    <script type="text/javascript">
+      $(function() {
+        $("a[href*=#]").click(function(e) {
+            e.preventDefault();
+            alert('Внутренние страницы еще не созданы. После заключения договора мы создадим внутренние страницы и наполним их вашей информацией. Вы получаете полноценный многостраничный корпоративный сайт.');
+        });
+      });
+    </script>
+
 
 <style>
     .block-11{   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("<?php echo $img3; ?>") left 50% top 50% / cover no-repeat fixed;}
