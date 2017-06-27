@@ -290,9 +290,9 @@ include '../config.php';
                             </div>
                             <div class="slider-item-2 slider-item" data-src="<?php echo $img2; ?>">
                             </div>
-                            <div class="slider-item-3 slider-item" data-src="<?php echo $img1; ?>">
+                            <div class="slider-item-3 slider-item" data-src="<?php echo $img3; ?>">
                             </div>
-                            <div class="slider-item-4 slider-item" data-src="<?php echo $img2; ?>">
+                            <div class="slider-item-4 slider-item" data-src="<?php echo $img4; ?>">
                             </div>
                         </div>
                         <div class="slider-controls">
@@ -315,7 +315,7 @@ include '../config.php';
                     </h1>
                         <article class="content-20 content widget-13 widget-type-content editorElement layer-type-widget">
                             <p>
-                                <a href="dcent.ru/nopage/" class="highslide" onclick="return hs.expand(this)"><img height="190" src="<?php echo $img2; ?>" style="border-width: 0px; float: left; margin: 10px;" width="286" /></a>Наша компания уже более 10 лет работает на рынке города и области!
+                                <a href="dcent.ru/nopage/" class="highslide" onclick="return hs.expand(this)"><img height="190" src="<?php echo $img5; ?>" style="border-width: 0px; float: left; margin: 10px;" width="286" /></a>Наша компания уже более 10 лет работает на рынке города и области!
 
                                 У нас работают ПРОФЕССИОНАЛЫ высочайшего класса, которые смогут воплотить практически любую Вашу задумку в жизнь.
 
@@ -327,7 +327,7 @@ include '../config.php';
 
                                 Звоните, и наши специалисты ответят на все Ваши вопросы.</p>
                             <p>
-                                <a href="http://dcent.ru/nopage/" class="highslide" onclick="return hs.expand(this)"><img height="180" src="<?php echo $img1; ?>" style="border-width: 0px; float: right; margin: 10px;" width="270" /></a>
+                                <a href="http://dcent.ru/nopage/" class="highslide" onclick="return hs.expand(this)"><img height="180" src="<?php echo $img6; ?>" style="border-width: 0px; float: right; margin: 10px;" width="270" /></a>
                             </p>
                             <p>Наша компания уже более 10 лет работает на рынке города и области!
 
