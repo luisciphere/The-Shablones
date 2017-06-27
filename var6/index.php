@@ -50,7 +50,8 @@ include '../config.php';
       left:0;
       width:auto;
       min-height:0px;
-      background:linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("<?php echo $img1; ?>") left 50% top 50% / auto auto no-repeat;
+      background:linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("<?php echo $img4; ?>");
+      background-size: cover;
       z-index:1;
       margin-top:0px;
       margin-left:0px;
@@ -324,7 +325,7 @@ include '../config.php';
                             </div>
                             <div class="figure">
                                 <div class="image">
-                                    <a href="#" target="_blank"><img src="<?php echo $img1; ?>" alt=""></a>
+                                    <a href="#" target="_blank"><img src="<?php echo $img5; ?>" alt=""></a>
                                 </div>
                             </div>
                         </div>
