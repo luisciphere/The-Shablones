@@ -85,7 +85,7 @@ include 'config.php';
             </div>
           </div>
 
-          <h1><span>Стандартный дизайн</span> - 4,999р</h1>
+          <h1><span>Стандартный дизайн</span> - 5000р</h1>
             <div class="variation_items">
               <div class="row">
                 <div class="col-md-4 col-sm-6 col-xs-6">
