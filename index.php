@@ -85,7 +85,7 @@ include 'config.php';
             </div>
           </div>
 
-          <h1><span>Стандартный дизайн</span> - 5000р</h1>
+          <h1><span>Стандартный дизайн</span> - 6000р</h1>
             <div class="variation_items">
               <div class="row">
                 <div class="col-md-4 col-sm-6 col-xs-6">
@@ -217,7 +217,7 @@ include 'config.php';
         </div>
 
         <div class="what_u_get text-center">
-          <h1>Всего за 4,999 рублей Вы получаете:</h1>
+          <h1>Всего за 6000 рублей Вы получаете:</h1>
           <div class="what_u_get_items row">
             <div class="col-xs-6 col-sm-6  col-md-4 ">
               <img src="img/What_u_get design.jpg" alt="Клиенты" class="image_style_what_u_get">
