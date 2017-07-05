@@ -145,7 +145,7 @@ include 'config.php';
               </div>
             </div>
             <div class="variation_individual">
-            <h1><span>Индивидуальный дизайн</span> - от 10,000р</h1>
+            <h1><span>Индивидуальный дизайн</span> - от 12,000р</h1>
             <a href="#"><img class="individual" src="img/spesial_design.jpg" alt="Индивидуальный дизайн"></a>
             </div>
         </div>
